@@ -1,9 +1,14 @@
-echo "# Orcafilms-" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
-git branch -M main 
-git remote add origin https://github.com/caiodoceu2015-wq/Orcafilms-.git
- git push -u origin main
-echo "# Orcafilms-" >> README.md 
-git init 
+index.html🐬 ORCA FILMS
+🔐 Admin
+🔍 Pesquisar filmes, séries ou novelas...
+🐬FILMES🐬
+🎬 FILMES
+Nenhum filme adicionado ainda
+
+🐬SÉRIES🐬
+Nenhum serie adicionado ainda
+
+
+🐬curtas🐬
+nenhum curtas adicionado ainda
+pesquisar...🔍
